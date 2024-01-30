@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shambles Christmas</string>
+    <string name="win_splash">YOU WON!</string>
+    <string name="coins">coins</string>
+    <string name="facebook_app_id">1310391889666827</string>
+    <string name="facebook_client_token">fb6aa49dd6f1c81216f0f61a5d2667a6</string>
+</resources>
